@@ -40,10 +40,5 @@
 </div>
 </a>
 
-###
-
-<br clear="both">
-
-<img src="https://previews.123rf.com/images/grgroup/grgroup1709/grgroup170900870/85471261-data-science-atom-around-of-server-icon.jpg" alt="DS" height="300" />
 
 ###
