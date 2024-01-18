@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bogdan, I'm mexican and I'm a Mechatronics Engineer, Data Scientist and Python developer.  My hobbies are playing the saxophone and write music. I am looking for a job where I can apply my knowledge of database development and management to develop myself professionally as a data scientist, data engineer or software developer.</h2>
+<p align="left">Hi 👋! My name is Bogdan, I'm mexican and I'm a Mechatronics Engineer, Data Scientist and Python developer.  My hobbies are playing the saxophone and write music. I am looking for a job and collaboration projects where I can apply my knowledge of database development and management to develop myself professionally as a data scientist, data engineer or software developer.</p>
 
 ###
 
@@ -23,6 +23,12 @@
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/java-programming-language-icon.png" height="30" alt="Java logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" height="30" alt="SQL logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/452228/html-5.svg" height="30" alt="HTML logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/452185/css-3.svg" height="30" alt="CSS logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/349419/javascript.svg" height="30" alt="CSS logo"  />
   <img width="12" />
 </div>
 
