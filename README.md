@@ -1,4 +1,6 @@
-<p align="left">Hi 👋! My name is Bogdan, I'm mexican and I'm a Mechatronics Engineer, Data Scientist and Python developer.  My hobbies are playing the saxophone and write music. I am looking for a job and collaboration projects where I can apply my knowledge of database development and management to develop myself professionally as a data scientist, data engineer or software developer.</p>
+<p align="left">Hi 👋! My name is Bogdan, I'm mexican and I'm a Mechatronics Engineer, Data Scientist and Software developer.  My hobbies are playing the saxophone and write music. I am looking for a job and collaboration projects where I can apply my knowledge of database development and management to develop myself professionally as a data scientist, data engineer or software developer.</p>
+
+Visit my online resume [here](https://bogdanrivera.github.io/curriculumBogdan/).
 
 ###
 
