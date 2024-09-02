@@ -5,7 +5,7 @@ Visit my online resume [here](https://bogdanrivera.github.io/curriculumBogdan/).
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BogdanRivera&theme=blue&green_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=BogdanRivera&theme=blue-green&icons=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BogdanRivera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
