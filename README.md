@@ -8,7 +8,7 @@ Visit my online resume [here](https://bogdanrivera.github.io/curriculumBogdan/).
   <img src="https://github-readme-stats.vercel.app/api?username=BogdanRivera&theme=blue-green&icons=true">
   <br>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BogdanRivera&locale=en&hide_title=false&layout=compact&langs_count=5&theme=merko&hide_border=false" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BogdanRivera&locale=en&hide_title=false&layout=compact&langs_count=5&theme=blue-green&hide_border=false" alt="languages graph"  />
 </div>
 
 ###
