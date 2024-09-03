@@ -47,7 +47,7 @@ Visit my online resume [here](https://bogdanrivera.github.io/curriculumBogdan/).
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 <div style="text-align:center;">
     <a href="https://bogdanrivera.github.io/curriculumBogdan/">
-        <img src="https://www.mediaheroes.com.au/wp-content/uploads/2023/09/purpose-of-a-website-media-heroes-banner-1.webp" height="40" alt="personal web" />
+        <img src="https://www.mediaheroes.com.au/wp-content/uploads/2023/09/purpose-of-a-website-media-heroes-banner-1.webp" height="60" alt="personal web" />
     </a>
 </div>
 </div>
