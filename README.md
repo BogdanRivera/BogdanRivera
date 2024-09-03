@@ -11,13 +11,11 @@ Visit my online resume [here](https://bogdanrivera.github.io/curriculumBogdan/).
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BogdanRivera&locale=en&hide_title=false&layout=compact&langs_count=5&theme=blue-green&hide_border=false" alt="languages graph"  />
 </div>
 
-###
 
-<img align="right" height="150" src="https://media.tenor.com/zn8iyusePtgAAAAM/joy.gif"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" height="30" alt="c logo"  />
@@ -38,7 +36,7 @@ Visit my online resume [here](https://bogdanrivera.github.io/curriculumBogdan/).
 
 ###
 
-<div align="left">
+<div align="center" >
   <a href="https://www.instagram.com/bogdanrivera/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
 </a>
@@ -47,10 +45,9 @@ Visit my online resume [here](https://bogdanrivera.github.io/curriculumBogdan/).
 </a>
 <a href="https://www.linkedin.com/in/bogdan-rivera-9555251a4/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <br> </br>
 <div style="text-align:center;">
     <a href="https://bogdanrivera.github.io/curriculumBogdan/">
-        <img src="https://www.mediaheroes.com.au/wp-content/uploads/2023/09/purpose-of-a-website-media-heroes-banner-1.webp" height="65" alt="personal web" />
+        <img src="https://www.mediaheroes.com.au/wp-content/uploads/2023/09/purpose-of-a-website-media-heroes-banner-1.webp" height="40" alt="personal web" />
     </a>
 </div>
 </div>
