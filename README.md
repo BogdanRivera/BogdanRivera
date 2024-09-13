@@ -32,7 +32,7 @@ Visit my online resume [here](https://bogdanrivera.github.io/curriculumBogdan/).
   <img width="12" />
   <img src="https://www.svgrepo.com/show/349419/javascript.svg" height="30" alt="CSS logo"  />
   <img width="12" />
-    <img src="https://www.svgrepo.com/show/333604/spring-boot.svg" height="30" alt="Spring boor" color="white" />
+    <img src="https://www.svgrepo.com/show/333604/spring-boot.svg" height="30" alt="Spring boor" background="white" />
   <img width="12" />
     <img src="https://www.svgrepo.com/show/493719/react-javascript-js-framework-facebook.svg" height="30" alt="React logo"  />
   <img width="12" />
