@@ -2,13 +2,6 @@
 
 Visit my online resume [here](https://bogdanrivera.github.io/curriculumBogdan/).
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BogdanRivera&theme=blue-green&icons=true">
-  <br>
-  <br>
-</div>
 
 
 
